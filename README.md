@@ -4,7 +4,11 @@
 
 ### Python 3 should be used to run the project also there are some packages should be download to implement the image classifier:
 1- PyTorch
+
 2-torchvision
+
 3-numpy 
+
 4-pandas 
+
 5-matplotlib
